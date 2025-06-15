@@ -14,7 +14,7 @@ A simple multi-tool downloader application with a GUI, built to download media f
 - Dark theme GUI with real-time progress tracking.
 
 ## Installation
-### Option 1: Pre-built Executable (Windows Only)
+### Pre-built Executable (Windows Only)
 - **No Installation Required**: Simply download and run the executable.
 - Steps:
   1. Download `OppxiPrivate.exe` from the [Releases](https://github.com/redlxtus/Oppxi-Private-Downloader/releases/tag/v1.0.4) page.
