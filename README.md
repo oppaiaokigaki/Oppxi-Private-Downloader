@@ -2,6 +2,9 @@
 
 A simple multi-tool downloader application with a GUI, built to download media from Spotify, YouTube, SoundCloud, TikTok, and Instagram.
 
+# Preview
+![image](https://github.com/user-attachments/assets/29bb5f81-05c2-4517-85f7-a39787ccdf77)
+
 ## Features
 - Download audio from Spotify (Free and Premium with limitations).
 - Convert YouTube videos to MP3.
