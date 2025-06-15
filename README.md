@@ -14,7 +14,7 @@ A simple multi-tool downloader application with a GUI, built to download media f
 ### Option 1: Pre-built Executable (Windows Only)
 - **No Installation Required**: Simply download and run the executable.
 - Steps:
-  1. Download `OppxiPrivate.exe` from the [Releases](https://github.com/<your-username>/OppxiDownloaderPrivate/releases) page.
+  1. Download `OppxiPrivate.exe` from the [Releases](https://github.com/redlxtus/Oppxi-Private-Downloader/releases/tag/v1.0.4) page.
   2. Double-click `OppxiPrivate.exe` to launch the application.
   3. No additional software or dependencies need to be installed.
 - **Notes**:
