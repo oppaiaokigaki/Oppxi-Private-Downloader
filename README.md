@@ -61,7 +61,7 @@ _**"Download Anything, From Anywhere - No Strings Attached!"**_
 </div>
 
 # 📜 License
-- © 2025 OPPXI
+- Copyright © 2025 Oppxi. All rights reserved.
 - WTFPL - Do Whatever the Fun You Want!
 - _"Because sharing is caring, but credit is cool"_
 <div align="center">
